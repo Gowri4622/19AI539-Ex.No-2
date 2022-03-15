@@ -16,7 +16,7 @@ Android Studio(Min. required Artic Fox)
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as “ex.no.1″ and click Next. 
+Step 2: Then type the Application name as “ex.no.2″ and click Next. 
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
@@ -31,7 +31,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Program to print the text “Hello World”.
+Program to print the text “Implicit and Explicit Intents”.
 Developed by:
 Registeration Number :
 */
